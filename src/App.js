@@ -5,16 +5,16 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import Home from './pages/homepage';
 import Test from './pages/testpage';
+import Navigation from './components/navbar';
 
 function App() {
   return (
     <Router>
-      <Container>
-        <Routes>
-        <Route exact path="/" element={<Home/>} />
-        <Route exact path="/test" element={<Test/>} />
+    <Navigation/>
+          <Routes>
+          <Route exact path="/" element={<Home/>} />
+          <Route exact path="/test" element={<Test/>} />
         </Routes>
-      </Container>
     </Router>
 
   );
