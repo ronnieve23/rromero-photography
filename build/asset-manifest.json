@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rromero-photography/static/css/main.a617e044.chunk.css",
+    "main.js": "/rromero-photography/static/js/main.6f5291e6.chunk.js",
+    "main.js.map": "/rromero-photography/static/js/main.6f5291e6.chunk.js.map",
+    "runtime-main.js": "/rromero-photography/static/js/runtime-main.061ea23e.js",
+    "runtime-main.js.map": "/rromero-photography/static/js/runtime-main.061ea23e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/rromero-photography/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a4ca2ce7.chunk.js": "/rromero-photography/static/js/2.a4ca2ce7.chunk.js",
+    "static/js/2.a4ca2ce7.chunk.js.map": "/rromero-photography/static/js/2.a4ca2ce7.chunk.js.map",
+    "static/js/3.13f0902d.chunk.js": "/rromero-photography/static/js/3.13f0902d.chunk.js",
+    "static/js/3.13f0902d.chunk.js.map": "/rromero-photography/static/js/3.13f0902d.chunk.js.map",
+    "index.html": "/rromero-photography/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/rromero-photography/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/rromero-photography/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a4ca2ce7.chunk.js.LICENSE.txt": "/rromero-photography/static/js/2.a4ca2ce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061ea23e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a4ca2ce7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6f5291e6.chunk.js"
+  ]
+}
