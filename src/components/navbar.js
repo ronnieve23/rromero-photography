@@ -11,8 +11,8 @@ function Navigation(props) {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse>
                     <Nav className="ms-auto">
-                        <Nav.Link href="/home" >Home</Nav.Link>
-                        <Nav.Link href="/test">Test</Nav.Link>
+                        <Nav.Link href="/rromero-photography/home" >Home</Nav.Link>
+                        <Nav.Link href="/rromero-photography/test">Test</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
         </Navbar>
